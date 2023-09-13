@@ -1,0 +1,26 @@
+#Job 01
+
+Pourquoi les balises <title> et <meta> sont-elles essentielles pour le SEO ?
+La balise <title> done le titre à la page c'est important pour le référencement. 
+La balise <meta> donne des informations qui sont sensées être lues par le moteur de recherche principalement.
+
+Quel impact ont-elles sur la perception d'un moteur de recherche vis-à-vis de votre site ?
+Le moteur de recherche Va référencer mon site en fonction de mots-clef (sémantique) en fonction dela priorité de certaines balises. <title> et <H1> sont les plus importantes.
+
+Quel est le rôle de la déclaration DOCTYPE en HTML ?
+La déclarattion <!DOCTYPE> désigne au navigateur que cette page doit être lue comme HTML. Parfois non nécessaire, elle permet quand même de régler nombreux problème de compatibilités.
+
+#Job 02
+
+Pourquoi est-il important d'utiliser des balises sémantiques en HTML ?
+Le fonctionnement des moteurs de recherche est basé sur la sémantique, l'utilisation des balises sémantique est cruciale pour le référencement.
+
+En quoi cela améliore-t-il le référencement et l'accessibilité ?
+Parce que les moteurs de recherche proposent des sites en fonction de la pertinence.
+
+#Job 03
+
+Comment les attributs name des champs de formulaire sont-ils utilisés lors de la soumission d'un formulaire ?
+Sur le serveur, la requête HTTP arrive et est traitée à l'aide d'une fonction de serveur correspondant à la URL du formulaire. 
+Le serveur analyse les données envoyées dans la requête et les utilise pour effectuer une action spécifiée, telle que l'envoi d'un e-mail, l'insertion d'un nouveau record dans une base de données, etc.
+
