@@ -2,13 +2,18 @@
 <html>
     <head>
         <title>Page principale du jour 01</title>
+        <!-- La balise qui suit sera un scrip JavaScript -->
+        <script>
+            window.addEventListener("load", function() {
+              alert("Hello world!")
+            });
+        </script>
     </head>
     <body>
         <header>
 
         </header>
         <nav>
-
         </nav>
         <main>
             <form action="/Formulaire">
@@ -16,13 +21,72 @@
                 <input type="radio" name="radio" value="choix"> choix
                 <button type="submit">Soumission</button>
             </form>
-
+            <strong>Me the Strongest!</strong>
+            <em>It is true</em>
+            <blockquote>J'aime les bananes au plantain</blockquote>
+            <code>public class Main {}</code>
+            <abbr title="moi">c'est moi</abbr>
             <article>
-
+                <img src="image.jpg" alt="Il s'agit du mot image...">
+                <video width="320" height="240" controls>
+                    <source src="video.mp4" type="video/mp4">   
+                  </video>
+                  <ol>
+                    <li>Premier éléments</li>
+                    <li>Deuxième élément</li>
+                    <li>Troisième élément</li>
+                  </ol>
+                  <ul>
+                    <li>Premier élément</li>
+                    <li>Deuxième élément</li>
+                    <li>Troisième élément</li>
+                  </ul>
             </article>
-            <section>
-
+            <section id="section1">
+                <table>
+                    <thead>
+                      <tr>
+                        <th>Tab</th>
+                        <th>A</th>
+                        <th>B</th>
+                        <th>C</th>
+                        <th>D</th>
+                        <th>E</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>1</td>
+                        <td>A1</td>
+                        <td>B1</td>
+                        <td>C1</td>
+                        <td>D1</td>
+                        <td>E1</td>
+                      </tr>
+                      <tr>
+                        <td>2</td>
+                        <td>A2</td>
+                        <td>B2</td>
+                        <td>C2</td>
+                        <td>D2</td>
+                        <td>E2</td>
+                      </tr>
+                    </tbody>
+                    <tfoot>
+                      <tr>
+                        <td>3</td>
+                        <td>A3</td>
+                        <td>B3</td>
+                        <td>C3</td>
+                        <td>D3</td>
+                        <td>E3</td>
+                      </tr>
+                    </tfoot>
+                  </table>
+                  <a href="https://www.youtube.com/@frestfeld6667/videos">Cliquez moi!</a>
             </section>
+            <a href="#section1">Anchor</a>
+
         </main>
         <footer>
 
